@@ -1,0 +1,441 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration:none;
+    
+
+  
+    
+}
+.sand img{
+    position:relative;
+    margin-top:1em;
+    height:6em;
+    width:20em;
+    
+}
+.container{
+    position:relative;
+    background:rgb(220, 245, 220);
+    height:110vh;
+}
+/*--------navigation/home-page----------*/
+.navigation{
+    position:absolute;
+    top:0;
+}
+.navigation nav  ul{
+    position:relative;
+    display:flex;
+    margin-top:3em;
+    flex-direction:row;
+    margin-left:40em;
+}
+.navigation nav ul li{
+    position:relative;
+    list-style:none;
+    padding-left:2em;
+
+}
+
+.home-background img{
+    position:relative;
+    height:100vh;
+    width:100%;
+}
+.home-text{
+    position:absolute;
+    top:0;
+    margin-top:11em;
+    line-height:3em;
+    margin-left:3em;
+}
+.shape{
+    position:relative;
+    font-size:3em;
+    color:rgb(78, 76, 76);
+    font-weight:2em;
+
+}
+.lag{
+    position:relative;
+    font-size:3em;
+    color:rgb(82, 81, 81);
+}
+.loan{
+    position:relative;
+    font-size:1.3em;
+    color:rgb(99, 96, 96);
+}
+.book{
+    position:relative;
+    display:flex;
+    margin-top:2em;
+    flex-direction:row;
+    
+}
+.head button{
+    position:relative;
+    height:3em;
+    width:10em;
+    border-radius:0.3em;
+    background:limegreen;
+    border-color:limegreen ;
+    border-style:hidden;
+    color: white;
+    
+
+}
+.greek{
+    position:absolute;
+    top:0;
+    margin-left:0.2em;
+    white-space:nowrap;
+
+}
+.play{
+    position:relative;
+    margin-left:1.5em;
+}
+/*-----------SignUP-PAGE----------*/
+.size{
+    position:absolute;
+    top:0;
+    margin-top:4em;
+    margin-left:30em;
+    line-height:1.6em;
+}
+.images{
+    position:absolute;
+    top:0;
+    margin-top:5em;
+    display:flex;
+    flex-direction:row;
+    
+}
+.first-image{
+    position:relative;
+    margin-top:1em;
+    margin-left:38em;
+    
+}
+.first-image img{
+    position:relative;
+    font-size:1em;
+    height:15em;
+    width:15em;
+}
+.second-image img{
+    position:relative;
+    margin-top:7em;
+    margin-right:10em;
+    height:15em;
+    width:15em;
+}
+.first{
+    position:relative;
+    margin-left:4.3em;
+}
+.first p{
+    position:relative;
+    font-size:1.5em;
+    color:rgb(65, 63, 63);
+    font-weight:50em;
+    font-family:sans-serif
+}
+.chat{
+    position:relative;
+    font-family:sans-serif;
+    color:rgb(68, 67, 67);
+    font-size:0.8em;
+    padding-left:2em;
+    
+}
+.form{
+    position:relative;
+
+}
+.hate{
+    margin-top:0.4em;
+}
+.hate p{
+    position:relative;
+    font-size:0.5em;
+    color:gray;
+}
+input{
+    position:relative;
+    box-sizing:border-box;
+    width:26em;
+    height:3.5em;
+    font-size:0.6em;
+    font-family:sans-serif;
+}
+.cake{
+    margin-top:1em;
+
+}
+.rake{
+    position:relative;
+    font-size:0.7em;
+}
+.yam a{
+    position:relative;
+    padding-left:1em;
+    font-size:0.7em;
+    color:green;
+}
+
+.cake button{
+    position:relative;
+    height:4em;
+    width:19em;
+    color:white;
+    background:black;
+}
+/*----------Bond------------*/
+.carousel{
+    position:relative;
+    overflow:hidden;
+    cursor:grab;
+    margin-left:11%;
+    margin-right:10%;
+
+}
+.lamp{
+    position:relative;
+    display:flex;
+    margin-left:1.5em;
+    display:flex;
+    flex-direction:row;
+    white-space:nowrap;
+
+    
+}
+.Work-load{
+    position:relative;
+    margin-left:1em;
+    height:25em;
+    width:14em;
+    border-radius:0.5em;
+    border-style:groove;
+    border-color:rgb(238, 245, 238); 
+    
+
+
+
+
+}
+.first-work{
+    position:relative;
+    margin-top:1em;
+    margin-left: 1em;
+    display:flex;
+}
+.last-image img{
+    position:relative;
+    height:2em;
+}
+.first-text{
+    position:relative;
+    margin-left:3.2em;
+    height:1.8em;
+    width:5.4em;
+    background:rgb(169, 221, 169);
+    border-radius:0.5em;
+    
+    
+}
+.low{
+    position:relative;
+    padding-top:0.8em;
+    padding-left:0.5em;
+    font-size:0.6em;
+    color:gray;
+}
+.mouse{
+    position:relative;
+    padding-top:0.8em;
+    padding-left:1em;
+    font-size:1.2em;
+}
+.excuses{
+    position:relative;
+    padding-top:0.8em;
+    font-size:0.6em;
+    padding-left:6em;
+    color:gray;
+    font-weight:bold;
+}
+.chair{
+    position:relative;
+    margin-top:0.8em;
+}
+.heat{
+    position:relative;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    font-size:0.8em;
+    line-height:2.5em;
+}
+.rice{
+    position:relative;
+    font-size:0.88em;
+    color:gray;
+}
+.beans{
+    position:relative;
+    font-weight:bold;
+    font-size:0.9em;
+    color:rgb(71, 69, 69)
+}
+.love{
+    position:relative;
+    display:flex;
+    margin-left:2em;
+    margin-top:1em;
+    flex-direction:row;
+}
+.emoji button{
+    position:relative;
+    height:3em;
+    width:10em;
+    background:rgb(20, 119, 20);
+    border-style:hidden;
+    border-radius:0.2em;
+}
+.rest{
+    position:relative;
+    margin-top:0.6em;
+    margin-left:0.4em;
+}
+
+.Work-maths{
+    position:relative;
+    margin-left:1em;
+    height:25em;
+    width:14em;
+    border-radius:0.5em;
+    border-style:groove;
+    border-color:rgb(238, 245, 238);
+    cursor:grab;
+    
+
+
+}
+
+.Work-english{
+    position:relative;
+    margin-left:1em;
+    height:25em;
+    width:14em;
+    border-radius:0.5em;
+    border-style:groove;
+    border-color:rgb(238, 245, 238);
+}
+.Work-chem{
+    position:relative;
+    margin-left:1em;
+    height:25em;
+    width:14em;
+    border-radius:0.5em;
+    border-style:groove;
+    border-color:rgb(238, 245, 238);
+}
+.work-agric{
+    position:relative;
+    margin-left:1em;
+    height:25em;
+    width:14em;
+    border-radius:0.5em;
+    border-style:groove;
+    border-color:rgb(238, 245, 238);
+}
+.work-biology{
+    position:relative;
+    margin-left:1em;
+    height:25em;
+    width:14em;
+    border-radius:0.5em;
+    border-style:groove;
+    border-color:rgb(238, 245, 238);
+    
+}
+.work-moon{
+    position:relative;
+    margin-left:1em;
+    height:25em;
+    width:14em;
+    border-radius:0.5em;
+    border-style:groove;
+    border-color:rgb(238, 245, 238);
+
+}
+.work-sky{
+    position:relative;
+    margin-left:1em;
+    height:25em;
+    width:14em;
+    border-radius:0.5em;
+    border-style:groove;
+    border-color:rgb(238, 245, 238);
+
+}
+.container-soil{
+    position:relative;
+
+}
+.rest{
+    position:relative;
+    margin-left:3em;
+    display:flex;
+    flex-direction:row;
+    height:7em;
+    width:70em;
+    border-color:rgb(187, 218, 187) ;
+    border-style:inset;
+    background:rgb(220, 245, 220);
+    border-radius:0.5em;
+
+
+
+}
+.money{
+    position:relative;
+    margin-top:1.4em;
+    display:flex;
+    flex-direction:row;
+}
+.details{
+    position:relative;
+    margin-left:20em;
+}
+.helo{
+    position:relative;
+    margin-top:1em;
+    margin-left:1.5em;
+}
+.bar img{
+    position:relative;
+    
+}
+.bulb{
+    position:relative;
+    font-size:1.3em;
+    margin-top:1em;
+    white-space:nowrap
+
+
+}
+.radio{
+    position:relative;
+    margin-left:2em;
+    white-space:nowrap;
+}
+.radio button{
+    position:relative;
+    margin-top:1.7em;
+    margin-left:3em;
+}
+
